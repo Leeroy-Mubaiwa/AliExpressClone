@@ -1,0 +1,64 @@
+{
+    "data" :[
+        {
+            "name":"Women's Fashion",
+            "position" : "-3780px",
+            "id" : 1
+        },
+        {
+            "name":"Men's Fashion",
+            "position" : "-2807px",
+            "id" : 2
+        },
+        {
+            "name":"Phones & Telecommunications",
+            "position" : "-2999px",
+            "id" : 3
+        },
+        {
+            "name":"Computer",
+            "position" : "-675px",
+            "id" : 4
+        },
+        {
+            "name":"Consumer Electronics",
+            "position" : "-763px",
+            "id" : 5
+        },
+        {
+            "name":"Jewelry",
+            "position" : "-1697px",
+            "id" : 6
+        },
+        {
+            "name":"Home",
+            "position" : "-1449px",
+            "id" : 7
+        },
+        {
+            "name":"Bags",
+            "position" : "-399px",
+            "id" : 8
+        },
+        {
+            "name":"Toys",
+            "position" : "-1785px",
+            "id" : 9
+        },
+        {
+            "name":"Outdoor Fun & Sports",
+            "position" : "-3504px",
+            "id" : 10
+        },
+        {
+            "name":"Beauty, Health",
+            "position" : "-487px",
+            "id" : 11
+        },
+        {
+            "name":"Automobiles & Motorcycles",
+            "position" : "-311px",
+            "id" : 12
+        }
+    ]
+}
